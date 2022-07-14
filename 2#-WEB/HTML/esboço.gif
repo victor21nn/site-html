@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head >
+        <meta charset="utf-8"/>
+
+        <title>PROGRAMAKI</title>
+
+
+
+    </head>
+
+    <body>
+
+
+        <link rel="stylesheet" href="esboço.css">
+        
+        <a href="https://pt.wikihow.com/Criar-um-Link-de-Imagem-em-HTML#:~:text=Digite%20o%20link%2C%20em%20formato,gif%22%3E.&text=Digite%20a%20tag%20de%20fechamento,foto%2C%20.">
+        <img src="AVS.gif" class="aligncenter" alt="some text" >
+        </a>
+        
+        <p></p>
+
+        <a href="https://pt.wikihow.com/Criar-um-Link-de-Imagem-em-HTML#:~:text=Digite%20o%20link%2C%20em%20formato,gif%22%3E.&text=Digite%20a%20tag%20de%20fechamento,foto%2C%20.">
+        <img class="displayed"src="gif%22%3E" class="aligncenter" alt="codigo">
+    </a>
+        
+       
+    </body>
+</html>
