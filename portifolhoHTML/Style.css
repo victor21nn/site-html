@@ -7,7 +7,7 @@
 
 
 .background{
-    background-image: url(art-back\ ground.png);
+    background-image: url(img/depositphotos_35476589-stock-photo-codehtml-script-in-text-editor.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -16,6 +16,7 @@
 }
 
 nav{
+    background-color: #101010b4;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -31,7 +32,7 @@ nav{
     letter-spacing: 1px;
 }
 span{
-    color: #f90000;
+    color: #1df900;
 }
 
 nav ul li{
@@ -48,12 +49,13 @@ nav ul li a{
 }
 
 nav ul li a:hover{
-    color: #f90000;
+    color: #1df900;
     transform: .4s;
 }
 
 .btn{
-    background-color: #f90000;
+    
+    background-color: #00f95f;
     color: #fff;
     text-decoration: none;
     border: 2px solid transparent;
@@ -75,7 +77,7 @@ nav ul li a:hover{
 }
 
 .Main span{
-    color: #f90000;
+    color: #1df900;
 }
 
 h1{
@@ -85,7 +87,7 @@ h1{
 }
 
 h4{
-    color: #fcfc;
+    color: #00f9bb9a;
     letter-spacing: 2px;
     font-size: 20px;
 }
@@ -106,7 +108,7 @@ h3{
     display: inline-block;
     width: 100%;
     padding: 14px 130px 14px 15px;
-    border: 2px solid #f90000;
+    border: 2px solid #1df900;
     border-radius: 30px;
     outline: none;
 }
@@ -174,7 +176,7 @@ h3{
 }
 
 button{
-    background-color: #f90000;
+    background-color: #1df900;
     color: #fff;
     text-transform: none;
     border: 2px solid transparent;
@@ -187,7 +189,7 @@ button{
 
 button:hover{
     background-color: transparent;
-    border: 2px solid #f90000;
+    border: 2px solid #1df900;
     cursor: pointer;
 }
 
@@ -230,7 +232,7 @@ button:hover{
     display: block;
     text-align: center;
     margin: 25px 0px;
-    color: #f90000;
+    color: #1df900;
 }
 
 h5{
@@ -299,7 +301,7 @@ footer p{
 }
 
 .Redes-sociais a{
-    background-color: #f90000;
+    background-color: #1df900;
     width: 45px;
     height: 45px;
     padding: 15px;
@@ -321,7 +323,7 @@ footer p{
 
 .end{
     position: absolute;
-    color: #f90000;
+    color: #1df900;
     bottom: 35px;
     font-size: 14px ;
 }
